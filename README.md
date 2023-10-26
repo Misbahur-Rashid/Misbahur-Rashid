@@ -31,7 +31,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-misbahurasif3112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misbahurasif3112@gmail.com)](mailto:misbahurasif3112@gmail.com)
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **Networking & Database**
 
 - 🌱 I’m currently learning **Networking, DSA & DBMS Advanced**
 
