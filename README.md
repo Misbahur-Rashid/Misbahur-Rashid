@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Misbahur Rashid</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-
+<!-- <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+ -->
 
 
 
@@ -33,11 +33,9 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **Laravel, DSA & DBMS Advanced**
+- 🌱 I’m currently learning **Networking, DSA & DBMS Advanced**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Misbahur-Rashid](https://github.com/Misbahur-Rashid)
-
-- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **misbahurasif3112@gmail.com**
 
