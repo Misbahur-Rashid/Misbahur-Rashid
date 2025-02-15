@@ -5,23 +5,6 @@
 
 
 
-<p align="left">
-  <a href="https://leetcode.com/Misbahur-Rashid/">
-    <img src="https://cp-logo.vercel.app/leetcode/Misbahur-Rashid" alt="LeetCode rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/14437755/asif">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/14437755?color=orange&label=Reputation&logo=stackoverflow" alt="Stack Overflow reputation" />
-  </a>
-  <a href="https://github.com/misbahur-rashid?tab=followers">
-    <img src="https://img.shields.io/github/followers/misbahur-rashid?color=green&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/misbahur-rashid/">
-    <img src="https://komarev.com/ghpvc/?username=misbahur-rashid" alt="Profile views" />
-  </a>
-</p>
-
-
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahur-rashid&label=Profile%20views&color=0e75b6&style=flat" alt="misbahur-rashid" /> </p>
  -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misbahur-rashid" alt="misbahur-rashid" /></a> </p> -->
