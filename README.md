@@ -3,15 +3,6 @@
 <!-- <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
  -->
 
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahur-rashid&label=Profile%20views&color=0e75b6&style=flat" alt="misbahur-rashid" /> </p>
- -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misbahur-rashid" alt="misbahur-rashid" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/asif_misbahur" target="blank"><img src="https://img.shields.io/twitter/follow/asif_misbahur?logo=twitter&style=for-the-badge" alt="asif_misbahur" /></a> </p>
-
-
 [![Gmail Badge](https://img.shields.io/badge/-misbahurasif3112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misbahurasif3112@gmail.com)](mailto:misbahurasif3112@gmail.com)
 
 - 🔭 I’m currently working on **Networking & Database**
